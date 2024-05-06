@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+.top-box{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+   
+    
+}
+
+.midle-box{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 200px;
+    top:200px ;
+}
+
+.buttom-box{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+    top:100px ;
+    
+}

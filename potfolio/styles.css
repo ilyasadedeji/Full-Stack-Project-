@@ -1,0 +1,32 @@
+
+
+/* styles.css */
+
+.hero {
+    background-image: linear-gradient(to bottom, #56B3FA 10%, #022B5A 100%, #B2A2CE 200%, #3b1f5a 200%);
+    padding: 100px 0;
+}
+
+.portfolio {
+    background-color: #FAF9F6;
+    padding: 100px 0;
+}
+
+.project {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+.contact {
+    background-image: linear-gradient(to bottom, #56B3FA 10%, #022B5A 100%, #B2A2CE 200%, #3b1f5a 200%);
+    padding: 100px 0;
+}
+
+.social-link {
+    color: #fff;
+}
+
+.social-link:hover {
+    text-decoration: none;
+}

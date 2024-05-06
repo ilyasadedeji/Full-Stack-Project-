@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../FRONTEND_MENTOR"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web development",
+		"liveServer.settings.port": 5501
+	}
+}
